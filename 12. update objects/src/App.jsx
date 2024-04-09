@@ -1,4 +1,4 @@
-//
+// Updater Function
 import MyComponent from './MyComponent.jsx';
 
 function App() {
