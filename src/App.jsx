@@ -1,8 +1,7 @@
-//
-import ToDoList from './ToDoList';
+// useEffect
 
 function App() {
-  return <ToDoList />;
+  return <></>;
 }
 
 export default App;
