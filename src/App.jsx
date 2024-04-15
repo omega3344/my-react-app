@@ -1,4 +1,4 @@
-// useEffect
+// StopWatch
 
 function App() {
   return <></>;
